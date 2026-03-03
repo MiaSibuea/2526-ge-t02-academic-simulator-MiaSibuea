@@ -30,7 +30,7 @@ Tugas kedua anda pada prinsipnya sama dengan **Task 01**, perbedaan terdapat pad
 ```bash
 12S20999#Wiro Sableng#2020#Information Systems
 12S20111#Jaka Sembung#2019#Information Systems
----
+
 
 ```
 
